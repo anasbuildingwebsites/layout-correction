@@ -1,0 +1,72 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #F3E9E9;
+}
+    
+header {
+    background-color: #60281C;
+    padding: 25px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    background-color: #E7C5C5;
+    margin-right: 15px;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-right: 10px;
+    padding-bottom: 8px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.main_title {
+    text-align: center;
+    color: #60281C;
+}
+
+.project_title {
+    background-color: #60281C;
+    color: #E7C5C5;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.project_image {
+    width: 50px;
+    border-radius: 50px;
+}
+
+.project_description {
+    font-size: 12px;
+    border-radius: 15px;
+    border: 2px dashed #60281C;
+    padding: 15px;
+}
+
+.project_button {
+    text-decoration: none;
+    color: black;
+    background-color: #E7C5C5;
+    margin-right: 15px;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-right: 10px;
+    padding-bottom: 8px;
+    text-align: center;
+    font-size: 14px;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+footer p {
+    color: #60281C;
+    font-size: 10px;
+    text-align: center;
+    font-style: italic;
+}
